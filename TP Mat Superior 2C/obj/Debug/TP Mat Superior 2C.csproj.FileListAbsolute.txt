@@ -1,0 +1,10 @@
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\bin\Debug\TP Mat Superior 2C.exe.config
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\bin\Debug\TP Mat Superior 2C.exe
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\bin\Debug\TP Mat Superior 2C.pdb
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP Mat Superior 2C.csprojAssemblyReference.cache
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP_Mat_Superior_2C.Form1.resources
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP_Mat_Superior_2C.Properties.Resources.resources
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP Mat Superior 2C.csproj.GenerateResource.cache
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP Mat Superior 2C.csproj.CoreCompileInputs.cache
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP Mat Superior 2C.exe
+C:\Users\mauro\source\repos\TP Mat Superior 2C\TP Mat Superior 2C\obj\Debug\TP Mat Superior 2C.pdb
